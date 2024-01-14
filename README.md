@@ -1,4 +1,4 @@
-# Launch A terminal
+# Launch a terminal
 
 $ sudo apt install python3-pip
 
@@ -29,7 +29,7 @@ $ ros2 launch yolobot_gazebo yolobot_launch.py
 ![image](https://github.com/wildchildfeel/yolobot/assets/156588748/da6c7a2f-ebde-4624-b113-26bc5de83665)
 
 
-# Launch New terminal
+# Launch a new terminal
 $ source ~/yolobot/install/setup.bash
 
 $ ros2 topic echo /Yolov8_Inference
@@ -37,7 +37,7 @@ $ ros2 topic echo /Yolov8_Inference
 ![image](https://github.com/wildchildfeel/yolobot/assets/156588748/7b62afe1-d126-41d8-9548-98fe8703bbf2)
 
 
-# Launch New terminal
+# Launch a new terminal
 $ rviz2
 
 - Click "Add" & "By topic"
